@@ -1,3 +1,7 @@
+## Live Demo
+
+https://aravindkalva.github.io/SCT_WD_3/
+
 # Tic-Tac-Toe Web Application
 
 A responsive and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
@@ -30,10 +34,6 @@ Tic-Tac-Toe-Web-App/
 1. Download the project.
 2. Open `index.html` in a browser.
 3. Start playing.
-
-## Live Demo
-
-Add your GitHub Pages link here:
 
 
 ## Author
